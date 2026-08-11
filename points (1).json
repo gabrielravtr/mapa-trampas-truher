@@ -1,0 +1,82 @@
+[
+  {
+    "id": "pt_1785517010282_729",
+    "code": "L-01",
+    "name": "Lampara atrapa insectos",
+    "type": "lampara",
+    "x": 77.90740966796875,
+    "y": 69.28721493894949
+  },
+  {
+    "id": "pt_1786468890750_568",
+    "code": "L-02",
+    "name": "Lámpara atrapa insectos #2",
+    "type": "lampara",
+    "x": 78.55555555555556,
+    "y": 50.235849056603776
+  },
+  {
+    "id": "pt_1786468916138_735",
+    "code": "L-03",
+    "name": "Lampara atrapa insectos #3",
+    "type": "lampara",
+    "x": 82.88888888888889,
+    "y": 29.40251572327044
+  },
+  {
+    "id": "pt_1786468933428_750",
+    "code": "L-04",
+    "name": "Lampara atrapa insectos #4",
+    "type": "lampara",
+    "x": 87.0740746392144,
+    "y": 33.09748427672956
+  },
+  {
+    "id": "pt_1786468953804_927",
+    "code": "L-05",
+    "name": "Lampara atrapa insectos #5",
+    "type": "lampara",
+    "x": 78.48148261176216,
+    "y": 21.252620595056307
+  },
+  {
+    "id": "pt_1786469034686_700",
+    "code": "L-06",
+    "name": "Lampara atrapa insectos #6",
+    "type": "lampara",
+    "x": 78.48148261176216,
+    "y": 10.875262104490268
+  },
+  {
+    "id": "pt_1786469050802_88",
+    "code": "L-07",
+    "name": "Lampara atrapa insecto #7",
+    "type": "lampara",
+    "x": 74.09259372287326,
+    "y": 6.865828142226118
+  },
+  {
+    "id": "pt_1786469070410_89",
+    "code": "L-08",
+    "name": "Lampara atrapa insecto #8",
+    "type": "lampara",
+    "x": 68.48148261176216,
+    "y": 6.708595437823601
+  },
+  {
+    "id": "pt_1786469097885_460",
+    "code": "L-09",
+    "name": "Lampara atrapa insecto #10",
+    "type": "lampara",
+    "x": 64.14814927842882,
+    "y": 27.935010682112015
+  },
+  {
+    "id": "pt_1786469120744_1",
+    "code": "L-10",
+    "name": "Lampara atrapa insectos #9",
+    "type": "lampara",
+    "x": 65.0370381673177,
+    "y": 47.903564741026685
+  }
+]
